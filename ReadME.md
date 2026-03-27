@@ -14,4 +14,5 @@ http://thomas-aws-static-site-2026-03-25.s3-website-us-west-1.amazonaws.com/
 ## Tech Used
 - AWS S3
 - HTML
+## Screenshot
 ![AWS S3 Static Site](AWS S3 static site.png)
